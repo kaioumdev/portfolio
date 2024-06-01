@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "E-Commerce",
+      "description": "This is a fully functional e-commerce website built using React,React-Bootstrap,Firebase and SwiperJS.",
+      "image": "images/project1.png",
+      "live":"https://e-commerce-react-8eb0a.web.app/",
+      "github":"https://github.com/kaiyumdev/react-ecommerce"
+    },
+    {
+      "id": 2,
+      "title": "Bank-Calculation App",
+      "description": "This React application provides a fully functional loan calculator to calculate monthly payments and total interest.",
+      "image": "images/project2.png",
+      "live":"https://bank-calculation-app.netlify.app/",
+      "github":"https://github.com/kaiyumdev/bank-calculation-app"
+    },
+    {
+      "id": 3,
+      "title": "Task Manager",
+      "description": "This is a Task Manager app to boost your productivity to create, read, update, delete al of your daily task",
+      "image": "images/project3.png",
+      "live":"https://tasker-umber.vercel.app/",
+      "github":"https://github.com/kaiyumdev/Tasker"
+    },
+    {
+      "id": 4,
+      "title": "Tic-Tac-Toe",
+      "description": "This is a beautiful and user-friendly implementation of the classic Tic Tac Toe game using React and Tailwind CSS.",
+      "image": "images/project4.png",
+      "live":"https://react-tic-tac-tao.netlify.app/",
+      "github":"https://github.com/kaiyumdev/react-tic-tac-toe"
+    },
+    {
+      "id": 5,
+      "title": "JS-Ecommerce",
+      "description": "This is a fully functional e-commerce website built using css & JavaScript and It's work like fully e-commerce site.",
+      "image": "images/project5.png",
+      "live":"https://kaiyumdev.github.io/js-recommerce/",
+      "github":"https://github.com/kaiyumdev/js-recommerce"
+    },
+    {
+      "id": 6,
+      "title": "Calculator",
+      "description": "Calculator app built by JavaScript and perform addition, subtraction, multiplication, and division.",
+      "image": "images/project6.png",
+      "live":"https://js-calculator-1stm.vercel.app/",
+      "github":"https://github.com/kaiyumdev/js-calculator"
+    }
+  ]
+  
