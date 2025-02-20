@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "title": "E-Commerce",
+      "title": "ShopCart",
       "description": "This is a fully functional e-commerce website built using React,React-Bootstrap,Firebase and SwiperJS.",
       "image": "images/project1.png",
       "live":"https://e-commerce-react-8eb0a.web.app/",
@@ -30,22 +30,6 @@
       "image": "images/project4.png",
       "live":"https://react-tic-tac-tao.netlify.app/",
       "github":"https://github.com/kaiyumdev/react-tic-tac-toe"
-    },
-    {
-      "id": 5,
-      "title": "JS-Ecommerce",
-      "description": "This is a fully functional e-commerce website built using css & JavaScript and It's work like fully e-commerce site.",
-      "image": "images/project5.png",
-      "live":"https://kaiyumdev.github.io/js-recommerce/",
-      "github":"https://github.com/kaiyumdev/js-recommerce"
-    },
-    {
-      "id": 6,
-      "title": "Calculator",
-      "description": "Calculator app built by JavaScript and perform addition, subtraction, multiplication, and division.",
-      "image": "images/project6.png",
-      "live":"https://js-calculator-1stm.vercel.app/",
-      "github":"https://github.com/kaiyumdev/js-calculator"
     }
   ]
   
