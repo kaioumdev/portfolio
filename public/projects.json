@@ -1,35 +1,52 @@
-[
-    {
+[      {
       "id": 1,
+      "title": "FoodCode",
+      "description": "The FoodCode is a React-based application experience for browsing menus, carts, payments, and admin.",
+      "image": "images/project6.png",
+      "live":"https://food-code-client.vercel.app/",
+      "frontend":"https://github.com/kaioumdev/FoodCode-client",
+      "backend": "https://github.com/kaioumdev/FoodCode-server"
+    },
+      {
+      "id": 2,
+      "title": "Hotels-Rooftop-Blog",
+      "description": "This is a blog project focused on hotels with rooftop pools. It's built using React, Redux Toolkit, React Router, and Tailwind CSS.",
+      "image": "images/project5.png",
+      "live":"https://hotels-rooftop-frontend.vercel.app/",
+      "frontend":"https://github.com/kaioumdev/Hotels-Rooftop-Frontend",
+      "backend": "https://github.com/kaioumdev/Hotels-Rooftop-Backend"
+    },
+    {
+      "id": 3,
       "title": "ShopCart",
       "description": "This is a fully functional e-commerce website built using React,React-Bootstrap,Firebase and SwiperJS.",
       "image": "images/project1.png",
       "live":"https://e-commerce-react-8eb0a.web.app/",
-      "github":"https://github.com/kaiyumdev/react-ecommerce"
+      "frontend":"https://github.com/kaioumdev/ShopCart"
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Bank-Calculation App",
       "description": "This React application provides a fully functional loan calculator to calculate monthly payments and total interest.",
       "image": "images/project2.png",
       "live":"https://bank-calculation-app.netlify.app/",
-      "github":"https://github.com/kaiyumdev/bank-calculation-app"
+      "frontend":"https://github.com/kaioumdev/bank-calculation-app"
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Task Manager",
       "description": "This is a Task Manager app to boost your productivity to create, read, update, delete al of your daily task",
       "image": "images/project3.png",
       "live":"https://tasker-umber.vercel.app/",
-      "github":"https://github.com/kaiyumdev/Tasker"
+      "frontend":"https://github.com/kaioumdev/Tasker"
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "Tic-Tac-Toe",
       "description": "This is a beautiful and user-friendly implementation of the classic Tic Tac Toe game using React and Tailwind CSS.",
       "image": "images/project4.png",
       "live":"https://react-tic-tac-tao.netlify.app/",
-      "github":"https://github.com/kaiyumdev/react-tic-tac-toe"
+      "frontend":"https://github.com/kaioumdev/react-tic-tac-toe"
     }
   ]
   
