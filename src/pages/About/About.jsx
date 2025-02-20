@@ -45,16 +45,8 @@ const About = () => {
       </header>
 
       <section className="about-text">
-
-
-
-
-
-
-
-
         <p>
-          👋 Hello there! I'm Abdul Kaiyum Fahim, a passionate full-stack web developer with a knack for turning ideas into immersive digital experiences. I thrive on the art of crafting elegant, user-friendly, and high-performance websites and web applications that make a real impact.
+          👋 Hello there! I'm Md Kaioum Islam, a passionate full-stack web developer with a knack for turning ideas into immersive digital experiences. I thrive on the art of crafting elegant, user-friendly, and high-performance websites and web applications that make a real impact.
 
         </p>
         <p>
