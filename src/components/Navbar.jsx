@@ -11,12 +11,6 @@ const Navbar = () => {
         </li>
 
         <li className="navbar-item">
-          <a href="/resume.pdf" className="navbar-link" data-nav-link target="_blank" rel="noopener noreferrer">
-            Resume
-          </a>
-        </li>
-
-        <li className="navbar-item">
           <NavLink to="/projects" className="navbar-link" data-nav-link>
             Projects
           </NavLink>
