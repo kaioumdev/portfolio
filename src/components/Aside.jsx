@@ -82,7 +82,7 @@ const Aside = () => {
             <div className="contact-info">
               <p className="contact-title">Location</p>
 
-              <address>Jashore,Khulna, Bangladesh</address>
+              <address>Jashore, Bangladesh</address>
             </div>
           </li>
         </ul>
